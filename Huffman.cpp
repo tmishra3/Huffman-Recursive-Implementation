@@ -1,17 +1,4 @@
 /*
- * Name: 
- * Netid:
- *
- * Intro paragraph:
- *
- *
- *
- *
- *
- *
- */
-
-/*
  * Header file declarations.
  * You may not include any additional header files
  */
