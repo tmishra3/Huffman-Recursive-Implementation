@@ -1,4 +1,4 @@
- Stage one (compression of input text file with -c option):
+## Stage one (compression of input text file with -c option):
  
  In stage one a string of chars from an input file are read and it
 uses a series of functions to compress it using the huffman compression. This mp
@@ -43,7 +43,7 @@ of each letter is stored in an array and is written to output file. The output f
 created as a text file with the same name as the input file with a .hc
 extension.
 
-Stage 2(Decompression of compressed file with -d option):
+## Stage 2(Decompression of compressed file with -d option):
 
 In stage 2, the input compressed file with file extension .hc is opened for reading.
 The first line of the compressed input file is the weight/letter string created in checkpoint
